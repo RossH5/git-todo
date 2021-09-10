@@ -2,4 +2,6 @@
 
 - Clean the Kitchen
 - Walk the dog
+- Do laundry
 - Feed the dawgs
+
